@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab3-Ponom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68dea525e496e5e7fd4ce9b3c8feac163303042b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce8b9dfdb0fd01bfa6747c4feb00ff6161c31e1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab3-Ponom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab3-Ponom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
