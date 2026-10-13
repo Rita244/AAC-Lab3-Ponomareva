@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Lab3-Ponom\bin\Debug\net10.0\Lab3-Ponom.exe
+C:\Users\ASUS\Documents\Lab3-Ponom\bin\Debug\net10.0\Lab3-Ponom.deps.json
+C:\Users\ASUS\Documents\Lab3-Ponom\bin\Debug\net10.0\Lab3-Ponom.runtimeconfig.json
+C:\Users\ASUS\Documents\Lab3-Ponom\bin\Debug\net10.0\Lab3-Ponom.dll
+C:\Users\ASUS\Documents\Lab3-Ponom\bin\Debug\net10.0\Lab3-Ponom.pdb
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.sourcelink.json
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.dll
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\refint\Lab3-Ponom.dll
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.pdb
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\Lab3-Ponom.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Lab3-Ponom\obj\Debug\net10.0\ref\Lab3-Ponom.dll
